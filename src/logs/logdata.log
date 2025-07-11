@@ -1,0 +1,71 @@
+2025-07-10 16:29:54 [main] INFO  pages.Login - Browserlaunched..
+2025-07-10 16:29:58 [main] INFO  pages.Login - Url Passed..
+2025-07-10 16:29:59 [main] INFO  keyword.Keywords - Text entered: Admin
+2025-07-10 16:30:00 [main] INFO  keyword.Keywords - Text entered: admin123
+2025-07-10 16:30:00 [main] INFO  pages.Login - entered username and Password..
+2025-07-10 16:30:00 [main] INFO  pages.Login - Clicked on Login...
+2025-07-10 16:30:03 [main] INFO  pages.Login - Dashboard page visited..
+2025-07-10 16:30:05 [main] INFO  pages.Login - PIM tab visited...
+2025-07-10 16:30:06 [main] INFO  pages.PIM - Clicked Adduser Button...
+2025-07-10 16:30:07 [main] INFO  keyword.Keywords - Text entered: kswokw
+2025-07-10 16:30:07 [main] INFO  keyword.Keywords - Text entered: sipkaq
+2025-07-10 16:30:08 [main] INFO  keyword.Keywords - Text entered: iswepn
+2025-07-10 16:30:08 [main] INFO  pages.PIM - Added user details...
+2025-07-10 16:30:15 [main] INFO  pages.PIM - User added Successfully...
+2025-07-10 16:30:17 [main] INFO  pages.PIM - moved to employee list...
+2025-07-10 16:30:17 [main] INFO  pages.SearchAddedUSer - Selecting suggested name: Searching....
+2025-07-10 16:30:18 [main] INFO  keyword.Keywords - Record found: taking screenshot...
+2025-07-10 16:30:20 [main] INFO  pages.SearchAddedUSer - Screenshopt captured and saved...
+2025-07-10 16:30:23 [main] INFO  pages.Admin - Candidates found for status: 'Enabled'. Count: 50
+2025-07-10 16:30:23 [main] INFO  pages.Admin - Candidates found for status: 'Enabled'. Count: 50
+2025-07-10 16:30:23 [main] INFO  pages.Admin - enabled candidates:
+2025-07-10 16:30:23 [main] INFO  pages.Admin - - 7koYg 3ynX2w
+2025-07-10 16:30:23 [main] INFO  pages.Admin - - 7temWJ eZEMTAqK
+2025-07-10 16:30:23 [main] INFO  pages.Admin - - 92qc9AUV wHlHo0
+2025-07-10 16:30:23 [main] INFO  pages.Admin - - 9cuZDIX MItYyNfv
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - TEST Linh
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - Anchal Choudhary2
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - aFukW 5Uz8d
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - Ahmed Fawzy
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - BE8j9QJ 1ka5yba
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - amany mohamed
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - Anne Bailey
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - Anushka Shetty
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - Arwa Salem
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - Arwa Salem
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - b1QkWC 7d59Ma
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - rnpyQiLK 3DCqG
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - BE8j9QJ 1ka5yba
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - bSWF4i9 pNjvS3b
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - Caleb Kutch
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - cl3d557q kcuzR2V
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - DupqXwlg bNNQeMfh
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - E9AklCc 7HF6Ue
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - Em9LcmB FdTL3A
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - F8rcRW xiUlD
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - Fo70VM 3yoDp
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - k n
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - k n
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - Herbert Soul
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - hNXTBXx UuNMJ
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - i6h1wR 4vI6oJ
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - jhon jhon
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - Karim Mosaad
+2025-07-10 16:30:24 [main] INFO  pages.Admin - - kEOEUu Im51q
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - KlUKOG uZnUKbn1
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - lfxQqVr 1Jj86QMD
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - LgZPdIo PtQai
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - LhOhw8P3wF YxsQh
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - MEulZ6F 3SUxh8
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - Mi1px EW4za
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - ncqrd8P6 nDbnyrK
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - NgHmCQ 7SyjXp
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - OgiGUFm NmPFsnf
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - oQKqi Ceg6H
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - pCJwQjd iz4gUxzI
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - Philip Fay-Johnson
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - qYQNUbf cSgPW
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - Rajesh Karnik
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - Rc66BVF9 txTkYJG
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - Reinhold Romaguera
+2025-07-10 16:30:25 [main] INFO  pages.Admin - - rfYtbYW NrbMMz
